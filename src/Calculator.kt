@@ -18,7 +18,8 @@ fun main() {
 
         when (scanner.nextInt()) {
             1 -> {
-                // TO DO
+                val addition = Addition()
+                addition.performOperation(scanner)
             }
             2 -> {
                 // TO DO
