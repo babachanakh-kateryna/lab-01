@@ -30,7 +30,8 @@ fun main() {
                 multiplication.performOperation(scanner)
             }
             4 -> {
-                // TO DO
+                val division = Division()
+                division.performOperation(scanner)
             }
             5 -> {
                 // TO DO
