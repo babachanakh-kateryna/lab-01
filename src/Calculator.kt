@@ -22,7 +22,8 @@ fun main() {
                 addition.performOperation(scanner)
             }
             2 -> {
-                // TO DO
+                val subtraction = Subtraction()
+                subtraction.performOperation(scanner)
             }
             3 -> {
                 // TO DO
