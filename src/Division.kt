@@ -1,5 +1,8 @@
 import java.util.*
 
+/**
+ * This class performs the division operation.
+ */
 class Division {
     fun performOperation(scanner: Scanner) {
         println("Enter two numbers to divide:")

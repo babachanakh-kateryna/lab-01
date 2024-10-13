@@ -34,7 +34,8 @@ fun main() {
                 division.performOperation(scanner)
             }
             5 -> {
-                // TO DO
+                val lengthConversion = LengthConversion()
+                lengthConversion.performOperation(scanner)
             }
             6 -> {
                 // TO DO
