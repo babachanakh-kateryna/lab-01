@@ -38,7 +38,8 @@ fun main() {
                 lengthConversion.performOperation(scanner)
             }
             6 -> {
-                // TO DO
+                val cubeVolume = CubeVolume()
+                cubeVolume.calculateVolume(scanner)
             }
             7 -> {
                 println("Exit the program...")
